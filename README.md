@@ -1,7 +1,16 @@
-# Getting Started with Create React App
+# Trello matrix
+This project is to create a trello app using Eisenhower matrix - Columns of projects while rows will be Urgent, Imp etc.
+Personally, I use this method to prioritize my tasks.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## To do
+[ ] NextJS or React? React because client rendered and then migrate to NextJS if required
+[ ] MUI or Ionic? MUI for learning
+[ ] Drag and drop? https://react-dnd.github.io/react-dnd/docs/overview is okay?
+[ ] Uninstall styled components and install MUI, and DnD
+[ ] Design basic component and start building
+[ ] How would the data collapse within the row?
 ## Available Scripts
 
 In the project directory, you can run:
